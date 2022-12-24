@@ -14,5 +14,6 @@ In addition, we support the stitching of two or more images.
 
 ## Usage
 `python Image_Stitching [/PATH/img1] [/PATH/img2]`
+
 `python Multi_Image_Stitching  [/PATH/img1] [/PATH/img2] ...`
 
